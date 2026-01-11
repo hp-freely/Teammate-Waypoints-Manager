@@ -1,4 +1,4 @@
-Download Instructions: Click the "Code" button, and select "Download ZIP".
+Download Instructions: 1) Click "TeammateWaypointManager.zip" 2) Click the "..." button in the top right of page. 3) Select "Download"
 # Teammate-Waypoints-Manager
 A script for adding and managing waypoints for teammates. It supports both automated and manual player waypoint actions. This script is intended to fully replace and extend the functionality of BuddyPoints.
 
